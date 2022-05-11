@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=LXGWZhenKai
+name=霞鹜臻楷
+version=1.0
+versionCode=1
+author=MuRan
+description=基于「CJK 字体 Magisk 模块模板」(https://github.com/lxgw/simple-cjk-font-magisk-module-template)和「霞鹜臻楷」(https://github.com/lxgw/LxgwZhenKai)制作的字体模块。
