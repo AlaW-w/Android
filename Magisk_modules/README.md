@@ -6,6 +6,8 @@
 
 - LXGWZhenKai：我基于[霞骛臻楷](https://github.com/lxgw/LxgwZhenKai)制作的字体模块。
 
+- GlowSans：我基于[未来荧黑](https://github.com/welai/glow-sans)制作的字体模块。
+
 - [AD_hosts](https://github.com/Mosney/anti-anti-AD)：基于 hosts 文件的去广告模块，虽然效果不如 AdGuard 这类基于 VPN 的去广告软件效果好，但是占用的系统资源也少嘛。
 
 - [Uperf](https://github.com/yc9559/uperf)：CPU 调度模块，具体信息请看源仓库。

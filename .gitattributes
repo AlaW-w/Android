@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Magisk_modules/GlowSans.zip filter=lfs diff=lfs merge=lfs -text
